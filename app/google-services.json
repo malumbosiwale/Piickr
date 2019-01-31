@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "705246256414",
+    "firebase_url": "https://zeebusinessdirectory.firebaseio.com",
+    "project_id": "zeebusinessdirectory",
+    "storage_bucket": "zeebusinessdirectory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705246256414:android:c0c3160ddae4bd25",
+        "android_client_info": {
+          "package_name": "com.housingexperience.zeecoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705246256414-k3vgrsj551eqfra19s9sh97g8msnr9dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.housingexperience.zeecoder",
+            "certificate_hash": "c75c1acdfc0e296378d8a9a015e83fc494167a82"
+          }
+        },
+        {
+          "client_id": "705246256414-so6k4jhpq68lrm379bln3ast6uuo8cl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgSrlwEUqxn1owKqLAUX556yRiAJ0HOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705246256414-ckcicdjav0ns582bmmueem330b8mka84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705246256414:android:1013f83ec10a63eb",
+        "android_client_info": {
+          "package_name": "com.piickr.zee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705246256414-so6k4jhpq68lrm379bln3ast6uuo8cl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgSrlwEUqxn1owKqLAUX556yRiAJ0HOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705246256414:android:9b8836c7d7fa4690",
+        "android_client_info": {
+          "package_name": "com.zeebusinessdirectory.siwale.zee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705246256414-kafu9lg1phovk5banap4ukkooi2teu2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeebusinessdirectory.siwale.zee",
+            "certificate_hash": "ec22d7a743cf743a78ab8cf6d569dcae094ce09e"
+          }
+        },
+        {
+          "client_id": "705246256414-6julflv2irn3j920mlh87anaq8njqqcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeebusinessdirectory.siwale.zee",
+            "certificate_hash": "c75c1acdfc0e296378d8a9a015e83fc494167a82"
+          }
+        },
+        {
+          "client_id": "705246256414-so6k4jhpq68lrm379bln3ast6uuo8cl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgSrlwEUqxn1owKqLAUX556yRiAJ0HOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5293817792285652~6614985728"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705246256414:android:0c3c463f0bdaa495",
+        "android_client_info": {
+          "package_name": "malumbo.zee_bd.com.insurancepolicy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705246256414-468tiqeass5egj6c1bgf4vqtvplrq5b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "malumbo.zee_bd.com.insurancepolicy",
+            "certificate_hash": "c75c1acdfc0e296378d8a9a015e83fc494167a82"
+          }
+        },
+        {
+          "client_id": "705246256414-so6k4jhpq68lrm379bln3ast6uuo8cl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgSrlwEUqxn1owKqLAUX556yRiAJ0HOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705246256414-ckcicdjav0ns582bmmueem330b8mka84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

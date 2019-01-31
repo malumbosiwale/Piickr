@@ -1,0 +1,33 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">268548723835915</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb268548723835915</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="next" translatable="false">NEXT</string>
+    <string name="skip" translatable="false">SKIP</string>
+    <string name="start" translatable="false">GOT IT</string>
+    <string name="slide_1_title" translatable="false">Hello Food!</string>
+    <string name="slide_1_desc" translatable="false">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title" translatable="false">Movie Tickets</string>
+    <string name="slide_2_desc" translatable="false">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title" translatable="false">Great Discounts</string>
+    <string name="slide_3_desc" translatable="false">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title" translatable="false">World Travel</string>
+    <string name="slide_4_desc" translatable="false">Book tickets of any transportation and travel the world!</string>
+    <string name="what_s_happening" translatable="false">What\'s Happening</string>
+    <string name="title_activity_post_composer" translatable="false">PostComposer</string>
+    <string name="title_activity_profile" translatable="false">ProfileActivity</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="cid" translatable="false">AIzaSyBTphNPZg3az6dFBGxFCY9eixXNw9yShpo</string>
+    <string name="dot"> . </string>
+    <string name="percentage">%</string>
+
+
+</resources>

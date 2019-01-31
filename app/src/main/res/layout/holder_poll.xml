@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/pollholder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/bg_parent_rounded_corner"
+        android:orientation="vertical"
+        android:padding="@dimen/feed_item_padding_left_right">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="@dimen/feed_item_profile_name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/timestamp"
+            android:textSize="@dimen/feed_item_timestamp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.daimajia.numberprogressbar.NumberProgressBar
+                android:id="@+id/number_progress_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+
+            <TextView
+                android:id="@+id/firstvalue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp" />
+
+            <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                android:id="@+id/firstresult"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                app:rcBackgroundColor="@color/transparent"
+                app:rcBackgroundPadding="5dp"
+                app:rcProgressColor="@color/black"
+                app:rcRadius="10dp"
+                app:rcReverse="false"
+                app:rcSecondaryProgressColor="@color/black" />
+
+            <TextView
+                android:id="@+id/secondvalue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp" />
+
+            <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                android:id="@+id/secondresult"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                app:rcBackgroundColor="@color/transparent"
+                app:rcBackgroundPadding="5dp"
+                app:rcProgressColor="@color/black"
+                app:rcRadius="10dp"
+                app:rcReverse="false"
+                app:rcSecondaryProgressColor="@color/black" />
+
+            <TextView
+                android:id="@+id/thirdvalue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp" />
+
+            <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                android:id="@+id/thirdresult"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                app:rcBackgroundColor="@color/transparent"
+                app:rcBackgroundPadding="5dp"
+                app:rcProgressColor="@color/black"
+                app:rcRadius="10dp"
+                app:rcReverse="false"
+                app:rcSecondaryProgressColor="@color/black" />
+
+            <TextView
+                android:id="@+id/fourthvalue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp" />
+
+            <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                android:id="@+id/fourthresult"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                app:rcBackgroundColor="@color/transparent"
+                app:rcBackgroundPadding="5dp"
+                app:rcProgressColor="@color/black"
+                app:rcRadius="10dp"
+                app:rcReverse="false"
+                app:rcSecondaryProgressColor="@color/black" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>
